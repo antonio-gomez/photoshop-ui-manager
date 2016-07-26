@@ -20,10 +20,10 @@ Node.js module that listens to Adobe Photoshop working area brightness change ev
 var photoshopUIManager = require('photoshop-ui-manager');
 
 photoshopUIManager.init({
-	'dark'      : 'css/dark-ui.css',
-	'darkGray'  : 'css/dark-gray-ui.css',
-	'lightGray' : 'css/light-gray-ui.css',
-	'gray'      : 'css/gray-ui.css'
+	'darkGray'   : 'css/dark-gray-ui.css',
+	'mediumGray' : 'css/medium-gray-ui.css',	
+	'lightGray'  : 'css/light-gray-ui.css',
+	'original'   : 'css/original-ui.css'
 });
 ```
 

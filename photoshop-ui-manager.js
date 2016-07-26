@@ -21,7 +21,10 @@
 	
 	// Public
 	PhotoshopUIManager.prototype.init = function(stylesheets) {
-		
+		//kPanelBrightnessOriginal
+		//kPanelBrightnessMediumGray
+		//kPanelBrightnessLightGray
+		//kPanelBrightnessDarkGray
 	};
 	
 	// Public

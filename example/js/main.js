@@ -15,9 +15,9 @@
     
 	'use strict';
 
-    var photoshopDOM = require('/Users/antgomez/Development/misc/photoshop-ui-manager/photoshop-ui-manager');
+    var photoshopUIManager = require('photoshop-ui-manager');
 
-	photoshopDOM.init({
+	photoshopUIManager.init({
 		'darkGray'   : 'css/dark-gray-ui.css',
 		'mediumGray' : 'css/medium-gray-ui.css',	
 		'lightGray'  : 'css/light-gray-ui.css',

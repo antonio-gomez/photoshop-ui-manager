@@ -15,8 +15,7 @@
 	
 	'use strict';
 	
-	var Q   = require('q'),
-		pkg = require('./package.json');
+	var pkg = require('./package.json');
 	
 	function PhotoshopUIManager() {}
 	
@@ -36,7 +35,7 @@
 			this._csInterface        = new window.CSInterface();
     		this._extensionId        = this._csInterface.getExtensionID();
 			
-			this.globalEventType     = window.CSInterface.THEME_COLOR_CHANGED_EVENT
+			this.globalEventType     = window.CSInterface.THEME_COLOR_CHANGED_EVENT;
 			this.stylesheets         = params;
 			this.targetLinkElement;
 			this.appSkinInfo         = JSON.parse(window.__adobe_cep__.getHostEnvironment()).appSkinInfo;

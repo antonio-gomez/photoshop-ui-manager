@@ -7,3 +7,11 @@ body {
 	border-color: #343434;
 	background-color: #B8B8B8;
 }
+
+.button:hover, .button:focus {
+	background-color: rgba(0, 0, 0, 0.1);
+}
+
+.button:active {
+	background-color: #B8B8B8;
+}

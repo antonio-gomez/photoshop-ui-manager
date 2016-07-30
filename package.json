@@ -32,8 +32,5 @@
   "bugs": {
     "url": "https://github.com/antonio-gomez/photoshop-ui-manager/issues"
   },
-  "homepage": "https://github.com/antonio-gomez/photoshop-ui-manager#readme",
-  "dependencies": {
-    "photoshop-dom-event": "^1.1.1"
-  }
+  "homepage": "https://github.com/antonio-gomez/photoshop-ui-manager#readme"
 }

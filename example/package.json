@@ -30,6 +30,6 @@
   },
   "homepage": "https://github.com/antonio-gomez/photoshop-ui-manager#readme",
   "dependencies": {
-    "photoshop-ui-manager": "^1.1.1"
+    "photoshop-ui-manager": "^1.0.0"
   }
 }

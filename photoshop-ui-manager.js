@@ -5,7 +5,7 @@
  *  Author: Antonio Gomez (https://github.com/antonio-gomez)
  *
  *  @@link https://github.com/antonio-gomez/photoshop-ui-manager
- *  @version v0.0.0
+ *  @version v1.0.0
  *  @license MIT
  *
  */

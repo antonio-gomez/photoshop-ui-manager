@@ -1,6 +1,6 @@
 {
   "name": "photoshop-ui-manager",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Node.js module that listens to Adobe Photoshop working area brightness change event and loads a corresponding css stylesheet.",
   "main": "./photoshop-ui-manager.js",
   "repository": {

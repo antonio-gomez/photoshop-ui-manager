@@ -1,17 +1,13 @@
 {
-  "name": "photoshop-ui-manager",
-  "version": "0.0.0",
-  "description": "Node.js module that listens to Adobe Photoshop working area brightness change event and loads a corresponding css stylesheet.",
-  "main": "./photoshop-ui-manager.js",
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/antonio-gomez/photoshop-ui-manager.git"
-  },
+  "name": "photoshop-ui-manager-example",
+  "version": "1.0.0",
+  "description": "Basic usage of photoshop-ui-manager node.js module",
+  "main": "./js/main.js",
   "keywords": [
     "photoshop",
     "event",
-    "ui",
-    "interface",
+    "dom",
+    "custom",
     "panels",
     "extensibility",
     "CEP"
@@ -34,6 +30,6 @@
   },
   "homepage": "https://github.com/antonio-gomez/photoshop-ui-manager#readme",
   "dependencies": {
-    "photoshop-dom-event": "^1.1.1"
+    "photoshop-ui-manager": "^1.1.1"
   }
 }

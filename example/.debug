@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<ExtensionList>
+    <Extension Id="me.antoniogomez.photoshop-ui-manager-example">
+        <HostList> 
+            <!-- Photoshop -->
+            <Host Name="PHXS" Port="8888"/>
+        </HostList>
+    </Extension>
+</ExtensionList>
+ 
